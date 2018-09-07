@@ -22,7 +22,7 @@ The script code has the ability to parse the log files line by line, to recogniz
 
 ## Pre-requsites
 
-To execute the script one needs to have installed the recent [Python](http://python.org) 2.7 or 3.x.
+To execute the script one needs to have installed the recent [Python](http://python.org) 3.x.
 
 ## Download the code
 

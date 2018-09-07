@@ -1,9 +1,9 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 
 __author__ = "Veselin Kolev"
 __license__ = "GPLv2"
-__version__ = "2018090500"
+__version__ = "2018090600"
 __maintainer__ = __author__
 __email__ = "vesso.kolev@gmail.com"
 __status__ = "Production"
