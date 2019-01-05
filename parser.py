@@ -115,6 +115,7 @@ if __name__ == '__main__':
 
     radiusd_log = '/var/log/radius/radius.log'
 
+    # Garbage collector have to be used here:
     check_input(sys)
 
     # Cannonize the input string to turn it into MAC:
